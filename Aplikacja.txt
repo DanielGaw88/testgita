@@ -4,14 +4,18 @@
         System.out.println("Kliknij na przycisk zaloguj");
     }
 
-   public void logowanie() {
+   public void logowanie wp() {
         System.out.println("Podaj email z wp");
         System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
 
-   public void logowanie() {
+   public void logowanie Micosoft() {
         System.out.println("Podaj nazwę użytkownika Microsoft");
         System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk zaloguj");
+    }
+
+    public void przypomnijHaslo() {
+        System.out.println("Kliknij na przycisk przypomnij haslo");
     }
